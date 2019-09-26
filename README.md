@@ -1,4 +1,4 @@
-# Baysian Rainfall Estimate Uncertainty
+# Bayesian Rainfall Estimate Uncertainty
 
 This software calculates estimates uncertainties of radar based rainfall retrievels. 
 ## Installation
